@@ -1,4 +1,4 @@
-var baseUrl = "https://sherryyuechiu.github.io/sites/WishList/";
+var baseUrl = "https://sherryyuechiu.github.io/WishList/";
 
 var $enterBox = document.querySelector(".enterBox");
 var $signinBox = document.querySelector(".signinBox");
